@@ -14,7 +14,7 @@
 - 🏎 My hobbies and interests are:
     - Motorsport and cars. I'm a huge modern F1 fan and always up to date with latest car technology.
     - VR. I'm playing mostly racing titles and Beat Saber.
-    - Video Games. My favorites are: Life Is Strange, The Wolf Among Us and ❤️ Half Life: Alyx..
+    - Video Games. My favorites are: Life Is Strange, ~~The Wolf~~ Among Us and ❤️ Half Life: Alyx..
 
 <!--
 **TortillaZHawaii/TortillaZHawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
