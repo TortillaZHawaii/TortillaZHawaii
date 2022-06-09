@@ -1,10 +1,9 @@
-## Hello there 👋
+## Hej 👋
 
 - 👨🏻‍🎓 Student of Warsaw University of Technology: Computer Science and Information Systems at [Faculty of Mathematics and Information Science](https://ww4.mini.pw.edu.pl/).
-- 💜 Fav language: C#. Somewhat familiar with C, CUDA and Dart.
-- 🏎️ Interests: coding, F1, public transport.
+- 💜 Mostly doing stuff in C# and Dart, but also familiar with C and CUDA. Interested in Go.
+- 🏎 Besides programming, nerdy about motorsport and public transport.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TortillaZHawaii&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TortillaZHawaii/TortillaZHawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
