@@ -1,8 +1,9 @@
 ## Hej 👋
 
-- 👨🏻‍🎓 Student of Warsaw University of Technology: Computer Science and Information Systems at [Faculty of Mathematics and Information Science](https://ww4.mini.pw.edu.pl/).
-- 💜 Mostly doing stuff in C# and Dart, but also familiar with C and CUDA. Interested in Go.
-- 🏎 Besides programming, nerdy about motorsport and public transport.
+ - 🛠️ C#, Dart, C++/CUDA
+ - 🔭 Interested in everything software related, recently in the cloud and backend engineering.
+
+Checkout www.dwysocki.com and my [linkedin](https://www.linkedin.com/in/dawid-wysocki-tortilla/).
 
 <!--
 **TortillaZHawaii/TortillaZHawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
