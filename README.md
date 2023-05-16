@@ -3,7 +3,7 @@
  - 🛠️ C#, Dart, C++/CUDA
  - 🔭 Interested in everything software related, recently in the cloud and backend engineering.
 
-Checkout www.dwysocki.com and my [linkedin](https://www.linkedin.com/in/dawid-wysocki-tortilla/).
+Checkout my cloud resume at [dwysocki.com](https://dwysocki.com) and my [linkedin](https://www.linkedin.com/in/dawid-wysocki-tortilla/).
 
 <!--
 **TortillaZHawaii/TortillaZHawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
