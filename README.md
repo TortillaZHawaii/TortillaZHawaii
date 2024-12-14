@@ -1,16 +1,16 @@
 ## Hej 👋
 
  - 🛠️ Skills:
+   - Go, GCP: [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce/pulls?q=is%3Apr+author%3ATortillaZHawaii+)
    - C#: ASP.NET Core, Entity Framework Core, Orleans
-   - AWS: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0412defd-ef65-4813-af25-a6e983ff540b/linked_in_profile), checkout my cloud resume at [dwysocki.com](https://dwysocki.com)
+   - AWS: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0412defd-ef65-4813-af25-a6e983ff540b/linked_in_profile)
    - Dart: Flutter, Firebase, Melos
    - Containers: Docker, [Kubernetes](https://www.cloudskillsboost.google/public_profiles/ba5bec52-b937-40e4-b551-3c7507cd13c8/badges/4337765)
    - Parallel & Distributed: Flink, Kafka, Orleans, CUDA, Thrust, OpenMP
-   - SQL: Postgresql, SQLite, EF Core
-   - NoSQL: etcd, MongoDb
+   - DBs: Postgresql, SQLite, EF Core, etcd, MongoDb
    - Testing: Cypress, Testcontainers, xUnit
-   - I've also written some Go, Python and JS/TS
- - 🔭 Interested in everything software related, from low level GPU programming to cloud.
+   - I've also dabbled with Python and TS/JS.
+ - 🔭 Interested in everything software related, from GPU programming to the cloud ☁️.
 
 Checkout my cloud resume at [dwysocki.com](https://dwysocki.com) and my [linkedin](https://www.linkedin.com/in/dawid-wysocki-tortilla/).
 
